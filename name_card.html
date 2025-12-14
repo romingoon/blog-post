@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Name Card</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap"
+        rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 800px;
+            height: 450px;
+            overflow: hidden;
+            font-family: 'Noto Sans KR', sans-serif;
+            background-color: transparent;
+        }
+
+        .card {
+            width: 800px;
+            height: 450px;
+            display: flex;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2c3e50 100%);
+            /* box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3); */
+            overflow: hidden;
+            position: relative;
+        }
+
+        .card-content {
+            flex: 1;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            color: white;
+            z-index: 10;
+        }
+
+        .image-container {
+            width: 350px;
+            position: relative;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        .image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            /* Focus on the face/body suitable for the crop */
+            object-position: top center;
+        }
+
+        /* Gradient overlay on image edge to blend */
+        .image-container::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100px;
+            height: 100%;
+            background: linear-gradient(to right, rgba(26, 26, 26, 1), rgba(26, 26, 26, 0));
+            pointer-events: none;
+        }
+
+        .logo-text {
+            font-family: 'Noto Serif KR', serif;
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: #d4af37;
+            /* Gold accent */
+            margin-bottom: 2rem;
+            letter-spacing: 0.05em;
+        }
+
+        .name {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.25rem;
+            letter-spacing: 0.3rem;
+            /* Spacing out Korean name for elegance */
+        }
+
+        .title {
+            font-size: 1.1rem;
+            color: #bdc3c7;
+            margin-bottom: 2.5rem;
+            font-weight: 300;
+        }
+
+        .info-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 0.8rem;
+            font-size: 0.95rem;
+            color: #ecf0f1;
+            line-height: 1.4;
+        }
+
+        .info-label {
+            min-width: 70px;
+            /* Fixed width for alignment */
+            color: #95a5a6;
+            font-weight: 500;
+        }
+
+        .divider {
+            height: 1px;
+            width: 50px;
+            background-color: #d4af37;
+            margin-bottom: 2rem;
+        }
+
+        .watermark {
+            position: absolute;
+            bottom: -30px;
+            left: 30px;
+            font-size: 6rem;
+            opacity: 0.03;
+            font-weight: 900;
+            color: white;
+            pointer-events: none;
+            z-index: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="card" id="nameCard">
+        <div class="card-content">
+            <div class="logo-text">법률사무소 이지스</div>
+
+            <div style="z-index: 1;">
+                <div class="name">염 용 주</div>
+                <div class="title">대표변호사</div>
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="info-group" style="z-index: 1;">
+                <div class="info-item">
+                    <span class="info-label">위 치</span>
+                    <span>서울특별시 서초구 서초대로51길 25<br>로펌타워 6층 601호</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">이메일</span>
+                    <span>yjy@aegislaw.co.kr</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">전 화</span>
+                    <span>070-4149-1332</span>
+                </div>
+            </div>
+
+            <div class="watermark">AEGIS</div>
+        </div>
+        <div class="image-container">
+            <img src="profile.jpg" alt="변호사 사진">
+        </div>
+    </div>
+
+</body>
+
+</html>

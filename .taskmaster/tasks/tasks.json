@@ -1,0 +1,144 @@
+{
+  "master": {
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Establish Publishing Schedule Calendar",
+        "description": "Create a regular publishing schedule for the blog with 2-3 posts per week, specifically on Tuesdays and Thursdays between 9-10 AM. Develop a monthly content plan template outlining weekly themes.",
+        "details": "Design a calendar system (e.g., Google Calendar or project management tool) to schedule posts on Tuesdays and Thursdays at 9-10 AM. Create a monthly content plan template with weekly themes: Week 1 - Legal Guide + Case Analysis; Week 2 - Current Affairs Commentary + Q&A; Week 3 - Legal Guide + Case Study; Week 4 - Policy Commentary + Q&A. Ensure the calendar is shareable with the content team for coordination.",
+        "testStrategy": "Verify the calendar entries for correct days and times. Confirm the monthly template includes all weekly themes accurately. Test sharing and accessibility with team members.",
+        "priority": "high",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 2,
+        "title": "Write First Post for New Series 'Education Law Case Reading'",
+        "description": "Select recent Supreme Court and Administrative Court rulings related to education law and write an SEO-optimized analysis post targeting teachers and education administrators.",
+        "details": "Research latest relevant court rulings from official legal databases. Analyze and summarize key points in an accessible manner. Apply SEO best practices including keyword research for education law terms, use of heading tags with target keywords, meta tags, and alt text for images. Incorporate tags relevant to the target audience.",
+        "testStrategy": "Review content for legal accuracy and clarity. Use SEO tools to verify keyword optimization and meta tag correctness. Confirm post is scheduled per publishing calendar.",
+        "priority": "high",
+        "dependencies": [
+          1
+        ],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 3,
+        "title": "Update Existing Popular Posts with 2024 Legal Amendments",
+        "description": "Identify popular blog posts and update their content to reflect 2024 changes in education law and regulations.",
+        "details": "Analyze blog analytics to list top-performing posts. Research 2024 legal amendments relevant to each post. Edit posts to incorporate updated legal information, ensuring content remains clear and accurate. Maintain SEO integrity by updating keywords and meta descriptions as needed.",
+        "testStrategy": "Cross-check updated posts against official legal sources for accuracy. Verify that SEO elements remain optimized post-update. Monitor post engagement metrics after updates.",
+        "priority": "high",
+        "dependencies": [
+          1
+        ],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 4,
+        "title": "Create Infographic and Checklist Templates",
+        "description": "Design reusable templates for infographics and checklists related to school violence committee preparation, teacher disciplinary response, card news style images, and infographic summaries.",
+        "details": "Use graphic design tools (e.g., Adobe Illustrator, Canva) to create visually appealing and brand-consistent templates. Templates should be easy to edit for future content. Include placeholders for text and icons relevant to education law topics. Ensure templates are optimized for web and mobile viewing.",
+        "testStrategy": "Test templates by creating sample infographics and checklists. Verify visual clarity and responsiveness on different devices. Collect feedback from content creators on usability.",
+        "priority": "medium",
+        "dependencies": [
+          1
+        ],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 5,
+        "title": "Expand Blogger Network and Initiate Engagement",
+        "description": "Identify and connect with at least 10 education-related bloggers to build a network, initiate neighbor additions, and encourage active comment exchanges.",
+        "details": "Research and list education law and related bloggers with active audiences. Send personalized connection requests or neighbor additions on Naver Blog. Develop a plan to engage through comments and collaborations. Track interactions and responses to foster ongoing relationships.",
+        "testStrategy": "Confirm at least 10 bloggers added as neighbors. Monitor comment exchanges for frequency and quality. Evaluate network growth monthly.",
+        "priority": "medium",
+        "dependencies": [
+          1
+        ],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 6,
+        "title": "Revise Tag Strategy with Long-tail and Regional Keywords",
+        "description": "Develop a tag strategy incorporating long-tail keywords and regional targeting to improve SEO and search visibility.",
+        "details": "Research long-tail keywords relevant to education law and regional terms such as 'Seoul Education Office Lawyer', 'Gyeonggi Education Office Discipline'. Compile a list of 10-15 optimized tags combining these keywords. Update blog posts and new content with these tags. Monitor tag performance and adjust as needed.",
+        "testStrategy": "Use SEO tools to validate keyword search volume and competition. Check tag application consistency across posts. Track changes in search rankings and traffic from tagged keywords.",
+        "priority": "medium",
+        "dependencies": [
+          1
+        ],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 7,
+        "title": "Launch New Series 'What Parents Should Know About Education Law'",
+        "description": "Plan and write two posts focused on school violence and safety from a parent's perspective, establishing a bi-monthly publishing schedule.",
+        "details": "Develop content outlines addressing key concerns of parents regarding education law. Write posts with clear, accessible language and SEO optimization. Schedule posts twice a month according to the publishing calendar. Include relevant infographics or checklists from templates.",
+        "testStrategy": "Review content for accuracy and readability. Confirm SEO elements are properly implemented. Verify publishing schedule adherence.",
+        "priority": "medium",
+        "dependencies": [
+          1,
+          4
+        ],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 8,
+        "title": "Launch New Series 'Teacher Q&A'",
+        "description": "Create two anonymized Q&A posts based on real counseling cases targeting active teachers, with a bi-monthly publishing schedule.",
+        "details": "Collect and anonymize real counseling cases respecting privacy. Draft Q&A style posts addressing common teacher concerns. Optimize posts for SEO with relevant keywords and tags. Schedule posts twice a month per calendar.",
+        "testStrategy": "Ensure anonymization complies with privacy standards. Validate content relevance and SEO optimization. Confirm publishing schedule compliance.",
+        "priority": "medium",
+        "dependencies": [
+          1
+        ],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 9,
+        "title": "Complete Minimum Three Posts per Series and Start New Series",
+        "description": "Publish at least three posts each for 'Education Law Case Reading', 'What Parents Should Know About Education Law', and 'Teacher Q&A' series. Initiate 'Education Office Officials Legal Guide' series with three posts.",
+        "details": "Track post counts per series to ensure minimum three posts are published. Plan and write three posts for the new 'Education Office Officials Legal Guide' series. Maintain SEO best practices and publishing schedule. Coordinate with content calendar and templates.",
+        "testStrategy": "Audit blog to confirm post counts per series. Review new series content for quality and SEO. Monitor publishing timeline adherence.",
+        "priority": "high",
+        "dependencies": [
+          2,
+          7,
+          8
+        ],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 10,
+        "title": "Implement Visitor Growth and Engagement Metrics Tracking",
+        "description": "Measure baseline visitor counts, monitor SEO impact, analyze weekly/monthly visitor trends, and identify improvement points to achieve 50% visitor increase.",
+        "details": "Set up analytics tools (e.g., Naver Analytics) to track visitor numbers and sources. Establish baseline metrics. Create dashboards for weekly and monthly trend analysis. Identify SEO and content areas for improvement based on data. Implement changes and monitor effects.",
+        "testStrategy": "Validate analytics setup and data accuracy. Track visitor growth against baseline. Document and review improvement actions and outcomes.",
+        "priority": "high",
+        "dependencies": [
+          2,
+          3,
+          6
+        ],
+        "status": "pending",
+        "subtasks": []
+      }
+    ],
+    "metadata": {
+      "created": "2025-12-08T03:14:56.611Z",
+      "updated": "2025-12-08T03:14:56.611Z",
+      "description": "Tasks for master context"
+    }
+  }
+}
