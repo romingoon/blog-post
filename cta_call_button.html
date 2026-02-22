@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>전화상담 CTA 버튼</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 40px;
+            gap: 60px;
+        }
+
+        .section-title {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        /* ===== 스타일 1: 풀 배너형 (권장) ===== */
+        .cta-button-banner {
+            width: 700px;
+            height: 120px;
+            background: linear-gradient(135deg, #1B2B48 0%, #2d4a6f 50%, #1B2B48 100%);
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            padding: 0 40px;
+            box-shadow: 0 8px 32px rgba(27, 43, 72, 0.4);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .cta-button-banner::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
+            transition: left 0.5s ease;
+        }
+
+        .cta-button-banner:hover::before {
+            left: 100%;
+        }
+
+        .cta-button-banner:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 40px rgba(27, 43, 72, 0.5);
+        }
+
+        .phone-icon-banner {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, #D4AF37, #f0d060);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            box-shadow: 0 4px 15px rgba(212, 175, 55, 0.4);
+        }
+
+        .phone-icon-banner svg {
+            width: 32px;
+            height: 32px;
+            fill: #1B2B48;
+        }
+
+        .cta-text-banner {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .cta-label-banner {
+            color: rgba(255,255,255,0.7);
+            font-size: 14px;
+            font-weight: 400;
+        }
+
+        .cta-main-banner {
+            color: #fff;
+            font-size: 28px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+
+        .cta-phone-banner {
+            color: #D4AF37;
+            font-size: 32px;
+            font-weight: 900;
+            letter-spacing: 2px;
+            margin-left: auto;
+            text-shadow: 0 2px 10px rgba(212, 175, 55, 0.3);
+        }
+
+        /* ===== 스타일 2: 컴팩트 버튼형 ===== */
+        .cta-button-compact {
+            display: inline-flex;
+            align-items: center;
+            gap: 15px;
+            background: linear-gradient(135deg, #D4AF37 0%, #c49b2d 100%);
+            padding: 20px 50px;
+            border-radius: 60px;
+            box-shadow: 0 6px 25px rgba(212, 175, 55, 0.4);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .cta-button-compact:hover {
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 10px 35px rgba(212, 175, 55, 0.5);
+        }
+
+        .cta-button-compact svg {
+            width: 28px;
+            height: 28px;
+            fill: #1B2B48;
+        }
+
+        .cta-button-compact .text {
+            color: #1B2B48;
+            font-size: 22px;
+            font-weight: 700;
+        }
+
+        .cta-button-compact .phone {
+            color: #1B2B48;
+            font-size: 22px;
+            font-weight: 900;
+            margin-left: 5px;
+        }
+
+        /* ===== 스타일 3: 미니멀 라인형 ===== */
+        .cta-button-minimal {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            background: #fff;
+            border: 2px solid #1B2B48;
+            padding: 18px 40px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .cta-button-minimal:hover {
+            background: #1B2B48;
+        }
+
+        .cta-button-minimal:hover svg {
+            fill: #D4AF37;
+        }
+
+        .cta-button-minimal:hover .text {
+            color: #fff;
+        }
+
+        .cta-button-minimal:hover .phone {
+            color: #D4AF37;
+        }
+
+        .cta-button-minimal svg {
+            width: 24px;
+            height: 24px;
+            fill: #1B2B48;
+            transition: fill 0.3s ease;
+        }
+
+        .cta-button-minimal .text {
+            color: #1B2B48;
+            font-size: 18px;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .cta-button-minimal .phone {
+            color: #1B2B48;
+            font-size: 20px;
+            font-weight: 700;
+            transition: color 0.3s ease;
+        }
+
+        /* ===== 스타일 4: 프리미엄 카드형 ===== */
+        .cta-card {
+            width: 400px;
+            background: linear-gradient(145deg, #1B2B48, #152238);
+            border-radius: 20px;
+            padding: 35px;
+            text-align: center;
+            box-shadow: 0 15px 50px rgba(27, 43, 72, 0.4);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .cta-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #D4AF37, #f0d060, #D4AF37);
+        }
+
+        .cta-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 60px rgba(27, 43, 72, 0.5);
+        }
+
+        .cta-card .icon-wrap {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #D4AF37, #f0d060);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 20px;
+            box-shadow: 0 8px 25px rgba(212, 175, 55, 0.3);
+        }
+
+        .cta-card .icon-wrap svg {
+            width: 40px;
+            height: 40px;
+            fill: #1B2B48;
+        }
+
+        .cta-card .title {
+            color: #fff;
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+
+        .cta-card .subtitle {
+            color: rgba(255,255,255,0.6);
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .cta-card .phone-number {
+            color: #D4AF37;
+            font-size: 32px;
+            font-weight: 900;
+            letter-spacing: 1px;
+        }
+
+        .cta-card .hint {
+            color: rgba(255,255,255,0.5);
+            font-size: 12px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 스타일 1: 풀 배너형 (블로그 하단 권장) -->
+    <div>
+        <div class="section-title">스타일 1: 풀 배너형 (700x120) - 블로그 하단 권장</div>
+        <div class="cta-button-banner">
+            <div class="phone-icon-banner">
+                <svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            </div>
+            <div class="cta-text-banner">
+                <span class="cta-label-banner">법률사무소 이지스 | 염용주 변호사</span>
+                <span class="cta-main-banner">전화상담 연결</span>
+            </div>
+            <span class="cta-phone-banner">070-4149-1332</span>
+        </div>
+    </div>
+
+    <!-- 스타일 2: 컴팩트 버튼형 -->
+    <div>
+        <div class="section-title">스타일 2: 컴팩트 버튼형 (자동 너비)</div>
+        <div class="cta-button-compact">
+            <svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            <span class="text">전화상담 연결</span>
+            <span class="phone">070-4149-1332</span>
+        </div>
+    </div>
+
+    <!-- 스타일 3: 미니멀 라인형 -->
+    <div>
+        <div class="section-title">스타일 3: 미니멀 라인형 (자동 너비)</div>
+        <div class="cta-button-minimal">
+            <svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            <span class="text">전화상담 연결</span>
+            <span class="phone">070-4149-1332</span>
+        </div>
+    </div>
+
+    <!-- 스타일 4: 프리미엄 카드형 -->
+    <div>
+        <div class="section-title">스타일 4: 프리미엄 카드형 (400px)</div>
+        <div class="cta-card">
+            <div class="icon-wrap">
+                <svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            </div>
+            <div class="title">전화상담 연결</div>
+            <div class="subtitle">법률사무소 이지스 | 염용주 대표변호사</div>
+            <div class="phone-number">070-4149-1332</div>
+            <div class="hint">클릭하시면 전화 연결됩니다</div>
+        </div>
+    </div>
+
+</body>
+</html>

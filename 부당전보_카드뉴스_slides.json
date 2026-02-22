@@ -1,0 +1,82 @@
+{
+  "theme": "aegis_brand",
+  "prefix": "부당전보대응",
+  "footer_name": "염용주 대표변호사 · 법률사무소 이지스",
+  "footer_handle": "@lawyer_yongjours",
+  "profile_image": {"cover": "profile1_nobg.png", "cta": "profile4_nobg.png"},
+  "logo_image": "aegis_logo.png",
+  "assets_dir": "C:/workspace/blog-post/images",
+  "profile_name": "염용주 대표변호사",
+  "profile_title": "법률사무소 이지스 · 교육법 전문",
+  "slides": [
+    {
+      "type": "cover",
+      "badge": "교원 부당전보 대응",
+      "title": "부당전보 통보,\n어떻게 대응하나요?",
+      "subtitle": "소청심사 30일 기한 내\n반드시 알아야 할 불복 절차",
+      "highlight": "30일"
+    },
+    {
+      "type": "problem",
+      "emoji": "😰",
+      "main_text": "갑자기 전보 발령을\n받으셨나요?",
+      "sub_text": "소청심사 기한은 단 30일\n놓치면 불복 수단이 크게 제한돼요"
+    },
+    {
+      "type": "point",
+      "number": "01",
+      "heading": "부당전보\n3가지 유형",
+      "body": "① 보복성 전보 — 문제 제기 후 전보\n② 절차적 하자 — 의견 청취 없이 발령\n③ 재량권 일탈 — 대상자 선정에 합리성 없음",
+      "highlight": "3가지"
+    },
+    {
+      "type": "point",
+      "number": "02",
+      "heading": "대법원이 제시한\n판단기준 5가지",
+      "body": "업무상 필요성 · 생활상 불이익\n대상자 적절성 · 사용자 의도\n절차 적법성 — 하나라도 문제면 위법!",
+      "highlight": "5가지"
+    },
+    {
+      "type": "comparison",
+      "title": "불복 절차, 이렇게 진행돼요",
+      "left_label": "1단계 · 소청심사",
+      "left_items": [
+        "교원소청심사위원회 청구",
+        "처분을 안 날로부터 30일 이내",
+        "청구 후 60일 이내 결정"
+      ],
+      "right_label": "2단계 · 행정소송",
+      "right_items": [
+        "행정법원에 소송 제기",
+        "결정서 받은 날로부터 90일 이내",
+        "소청 기각 후 뒤집힌 사례 다수"
+      ]
+    },
+    {
+      "type": "point",
+      "number": "03",
+      "heading": "증거 확보가\n가장 먼저예요",
+      "body": "✓ 전보 발령장 원본 보관\n✓ 문제제기↔전보 시점 관계 정리\n✓ 동료 진술 미리 확보\n✓ 교육청 인사기준 정보공개 청구",
+      "highlight": "증거 확보"
+    },
+    {
+      "type": "summary",
+      "title": "부당전보 대응 핵심 정리",
+      "items": [
+        "소청심사 기한 30일, 먼저 확인하세요",
+        "보복성·절차 하자·재량 일탈 → 위법 판단 가능",
+        "대법원 5가지 기준 중 하나만 문제여도 OK",
+        "증거 확보는 전보 통보 직후가 골든타임",
+        "소청 기각돼도 행정소송에서 뒤집힌 사례 많아요"
+      ]
+    },
+    {
+      "type": "cta",
+      "message": "전보 통보를 받으셨다면\n지금 바로 상담하세요",
+      "sub_message": "소청 기한(30일) 안에 대응 전략을 세우는 것이\n결과를 크게 좌우해요. 저장🔖하고 필요할 때 꺼내보세요",
+      "contact": "070-4149-1332",
+      "handle": "@lawyer_yongjours",
+      "name": "염용주 변호사 · 교육법 전문 9년"
+    }
+  ]
+}

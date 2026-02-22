@@ -1,0 +1,808 @@
+{
+  "last_updated": "2026-02-21",
+  "blog_id": "lawyer_dragonball",
+  "total_count": 112,
+  "categories": {
+    "1": "염용주 변호사 소개",
+    "6": "찾아오시는 길",
+    "8": "면책공고",
+    "9": "교원 법률지원",
+    "10": "학교 폭력",
+    "11": "교육기관 법률지원",
+    "13": "민사 소송",
+    "14": "형사 사건",
+    "15": "행정 소송",
+    "17": "학교 안전",
+    "18": "교육법률 뉴스",
+    "19": "염용주 변호사 소식",
+    "20": "염용주 변호사의 생각",
+    "21": "학교장 법률지원",
+    "22": "성공 사례"
+  },
+  "posts": [
+    {
+      "logNo": "224181062174",
+      "title": "교사 아동학대 고소, 첫 대응 72시간이 승부! 무혐의 받는 핵심 전략",
+      "url": "https://blog.naver.com/lawyer_dragonball/224181062174",
+      "category": "교원 법률지원",
+      "date": "2026-02-12"
+    },
+    {
+      "logNo": "224181018197",
+      "title": "[염용주 대표변호사] 서울도봉경찰서 정보공개심의회 외부위원 위촉 알림",
+      "url": "https://blog.naver.com/lawyer_dragonball/224181018197",
+      "category": "염용주 변호사 소식",
+      "date": "2026-02-12"
+    },
+    {
+      "logNo": "224172313345",
+      "title": "2026 대입, 학교폭력 의무 반영! 달라진 점 총 정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/224172313345",
+      "category": "학교 폭력",
+      "date": "2026-02-05"
+    },
+    {
+      "logNo": "224161850754",
+      "title": "사교육카르텔 기소 교원, 지금 해야 할 5가지 대응 전략",
+      "url": "https://blog.naver.com/lawyer_dragonball/224161850754",
+      "category": "교원 법률지원",
+      "date": "2026-01-27"
+    },
+    {
+      "logNo": "224118172087",
+      "title": "교원 Q&A - \"징계위원회 출석 거부하면 어떻게 되나요?\" 변호사에게 자주 묻는 5가지 실전 질문",
+      "url": "https://blog.naver.com/lawyer_dragonball/224118172087",
+      "category": "교원 법률지원",
+      "date": "2025-12-22"
+    },
+    {
+      "logNo": "224112689678",
+      "title": "2025년 사교육카르텔 수사 결과 분석 - 교원이 알아야 할 후속 대응법",
+      "url": "https://blog.naver.com/lawyer_dragonball/224112689678",
+      "category": "교원 법률지원",
+      "date": "2025-12-17"
+    },
+    {
+      "logNo": "224110019833",
+      "title": "직위해제 통보 받으셨나요? 교원이 꼭 알아야 할 대응 절차 총정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/224110019833",
+      "category": "교원 법률지원",
+      "date": "2025-12-15"
+    },
+    {
+      "logNo": "224107512845",
+      "title": "[염용주 대표변호사 소식] 대한변호사협회 교육위원회 위원 임명 알림",
+      "url": "https://blog.naver.com/lawyer_dragonball/224107512845",
+      "category": "염용주 변호사 소식",
+      "date": "2025-12-12"
+    },
+    {
+      "logNo": "224105649408",
+      "title": "학교폭력 조치 기록 학생부 기재와 삭제, 2026 대입 대비 필수 정보",
+      "url": "https://blog.naver.com/lawyer_dragonball/224105649408",
+      "category": "학교 폭력",
+      "date": "2025-12-11"
+    },
+    {
+      "logNo": "224103284162",
+      "title": "교사 형사고소 대응, 무혐의 받기 위한 핵심 5단계 전략",
+      "url": "https://blog.naver.com/lawyer_dragonball/224103284162",
+      "category": "교원 법률지원",
+      "date": "2025-12-09"
+    },
+    {
+      "logNo": "224102164816",
+      "title": "수능 후 학생부 오류 발견! 정정 가능할까요? 법적 대응법 총정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/224102164816",
+      "category": "행정 소송",
+      "date": "2025-12-08"
+    },
+    {
+      "logNo": "224081914826",
+      "title": "사교육카르텔 청탁금지법 위반 직무관련성, 대가성 입증 방어전략",
+      "url": "https://blog.naver.com/lawyer_dragonball/224081914826",
+      "category": "교원 법률지원",
+      "date": "2025-11-20"
+    },
+    {
+      "logNo": "224080773389",
+      "title": "교원 성비위 징계, 왜 이렇게 엄격할까? 대응 전략 총정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/224080773389",
+      "category": "교원 법률지원",
+      "date": "2025-11-19"
+    },
+    {
+      "logNo": "224050141023",
+      "title": "교원 품위유지의무 위반 SNS 활동으로 징계받았다면, 승소/감경 포인트는?",
+      "url": "https://blog.naver.com/lawyer_dragonball/224050141023",
+      "category": "교원 법률지원",
+      "date": "2025-10-22"
+    },
+    {
+      "logNo": "224049936317",
+      "title": "사교육 카르텔 검찰 송치 통보 받았다면? 전략적 대응법 총정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/224049936317",
+      "category": "교원 법률지원",
+      "date": "2025-10-22"
+    },
+    {
+      "logNo": "224048339575",
+      "title": "학교폭력심의위원회(학폭위) 개최 통지받았다면, 피해학생 대응 전략",
+      "url": "https://blog.naver.com/lawyer_dragonball/224048339575",
+      "category": "학교 폭력",
+      "date": "2025-10-21"
+    },
+    {
+      "logNo": "224048307976",
+      "title": "학교복합시설 법적 분쟁 완전 가이드 - 관련 주요 법령 해설 총정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/224048307976",
+      "category": "교육기관 법률지원",
+      "date": "2025-10-21"
+    },
+    {
+      "logNo": "224048287376",
+      "title": "교원 승진누락, 보복성 인사 등 부당한 인사조치 대응 전략 총정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/224048287376",
+      "category": "교원 법률지원",
+      "date": "2025-10-21"
+    },
+    {
+      "logNo": "224042877686",
+      "title": "사교육 카르텔 형사고발, 초기 대응이 많은 것을 결정합니다",
+      "url": "https://blog.naver.com/lawyer_dragonball/224042877686",
+      "category": "교원 법률지원",
+      "date": "2025-10-16"
+    },
+    {
+      "logNo": "224022253301",
+      "title": "학교폭력 비용 누가 부담하나요? 치료비부터 변호사비용까지",
+      "url": "https://blog.naver.com/lawyer_dragonball/224022253301",
+      "category": "학교 폭력",
+      "date": "2025-09-26"
+    },
+    {
+      "logNo": "224005026792",
+      "title": "사교육 카르텔 수사기관 경찰조사 연락시 교원 초기대응법",
+      "url": "https://blog.naver.com/lawyer_dragonball/224005026792",
+      "category": "교원 법률지원",
+      "date": "2025-09-12"
+    },
+    {
+      "logNo": "224002247025",
+      "title": "교육활동 침해 발생 시 대응법, 교사가 꼭 알아야 할 초기 대응",
+      "url": "https://blog.naver.com/lawyer_dragonball/224002247025",
+      "category": "교원 법률지원",
+      "date": "2025-09-10"
+    },
+    {
+      "logNo": "223993364141",
+      "title": "교원 재임용 거부 대응법, 소청심사 승소 전략 완벽 가이드",
+      "url": "https://blog.naver.com/lawyer_dragonball/223993364141",
+      "category": "교원 법률지원",
+      "date": "2025-09-03"
+    },
+    {
+      "logNo": "223992729025",
+      "title": "학교폭력 발생 시 즉시 해야 할 3가지, 증거보전부터 신고까지",
+      "url": "https://blog.naver.com/lawyer_dragonball/223992729025",
+      "category": "학교 폭력",
+      "date": "2025-09-02"
+    },
+    {
+      "logNo": "223992047488",
+      "title": "교사 음주운전 처벌 징계 기준 완벽 가이드 & 2025년 달라진 점",
+      "url": "https://blog.naver.com/lawyer_dragonball/223992047488",
+      "category": "교원 법률지원",
+      "date": "2025-09-02"
+    },
+    {
+      "logNo": "223986220334",
+      "title": "학교복합시설 법적 개념부터 현황까지 한번에 파악하기",
+      "url": "https://blog.naver.com/lawyer_dragonball/223986220334",
+      "category": "교육기관 법률지원",
+      "date": "2025-08-28"
+    },
+    {
+      "logNo": "223986174344",
+      "title": "행정직원이 알아야 할 학교 시설 사용허가 실무 노하우",
+      "url": "https://blog.naver.com/lawyer_dragonball/223986174344",
+      "category": "교육기관 법률지원",
+      "date": "2025-08-28"
+    },
+    {
+      "logNo": "223982208839",
+      "title": "지역교권보호위원회 이해하기: 교권침해 당했을 때? 교사가 꼭 알아야 할 권리와 절차",
+      "url": "https://blog.naver.com/lawyer_dragonball/223982208839",
+      "category": "교원 법률지원",
+      "date": "2025-08-25"
+    },
+    {
+      "logNo": "223978258475",
+      "title": "교사 음주운전 징계, 교원소청심사로 감경받는 법",
+      "url": "https://blog.naver.com/lawyer_dragonball/223978258475",
+      "category": "교원 법률지원",
+      "date": "2025-08-21"
+    },
+    {
+      "logNo": "223976603719",
+      "title": "학교폭력 유형 7가지 정의, 종류별 특징 법적 기준",
+      "url": "https://blog.naver.com/lawyer_dragonball/223976603719",
+      "category": "학교 폭력",
+      "date": "2025-08-20"
+    },
+    {
+      "logNo": "223975309497",
+      "title": "학교폭력 사안처리 절차의 이해 (5) : 학교장 자체해결 vs 심의위원회, 어떻게 결정되나요?",
+      "url": "https://blog.naver.com/lawyer_dragonball/223975309497",
+      "category": "학교 폭력",
+      "date": "2025-08-19"
+    },
+    {
+      "logNo": "223975290577",
+      "title": "교육활동 보호 법률의 기본 이해 (2) : 교사도 학부모도 알아야 할 교육활동 침해의 법적 정의와 유형",
+      "url": "https://blog.naver.com/lawyer_dragonball/223975290577",
+      "category": "교원 법률지원",
+      "date": "2025-08-19"
+    },
+    {
+      "logNo": "223967702126",
+      "title": "[염용주 대표변호사] 충청남도교육청 교육연수원 출강 후기 - 2025학년도 하계 1급 정교사 자격연수 (1정연수)",
+      "url": "https://blog.naver.com/lawyer_dragonball/223967702126",
+      "category": "염용주 변호사 소식",
+      "date": "2025-08-12"
+    },
+    {
+      "logNo": "223967665529",
+      "title": "[염용주 대표변호사] 국립공주대학교 사범대학교육원수원 2025학년도 하계 1급 정교사 자격연수(1정 연수) 강의 출강 후기",
+      "url": "https://blog.naver.com/lawyer_dragonball/223967665529",
+      "category": "염용주 변호사 소식",
+      "date": "2025-08-12"
+    },
+    {
+      "logNo": "223967616835",
+      "title": "교원소청심사 기초 완전정복 (3) : 소청심사와 행정소송, 교육청 출신 변호사가 알려주는 선택 기준",
+      "url": "https://blog.naver.com/lawyer_dragonball/223967616835",
+      "category": "교원 법률지원",
+      "date": "2025-08-12"
+    },
+    {
+      "logNo": "223961966734",
+      "title": "[성공 사례] 사립대학 교원 재임용 거부 처분 취소 청구 승소, 객관적 기준이 핵심",
+      "url": "https://blog.naver.com/lawyer_dragonball/223961966734",
+      "category": "성공 사례",
+      "date": "2025-08-07"
+    },
+    {
+      "logNo": "223960674377",
+      "title": "학교폭력 사안처리 절차의 이해(4) : 학폭 골든타임, 전담기구의 대응이 핵심",
+      "url": "https://blog.naver.com/lawyer_dragonball/223960674377",
+      "category": "학교 폭력",
+      "date": "2025-08-06"
+    },
+    {
+      "logNo": "223952251302",
+      "title": "교육활동 침해 사안 대응 가이드 (1) : 초기 대응 완벽 실전 가이드",
+      "url": "https://blog.naver.com/lawyer_dragonball/223952251302",
+      "category": "교원 법률지원",
+      "date": "2025-07-30"
+    },
+    {
+      "logNo": "223950770018",
+      "title": "[염용주 대표변호사] 서울학부모지원센터 학부모의무교육 '성폭력의 예방을 위한 학부모 역할(사례 중심)' 온라인 강의 출강 후기",
+      "url": "https://blog.naver.com/lawyer_dragonball/223950770018",
+      "category": "염용주 변호사 소식",
+      "date": "2025-07-29"
+    },
+    {
+      "logNo": "223950019110",
+      "title": "[염용주 대표변호사] 제주특별자치도 탐라교육원 '2025 행정실장 역량 향상 과정 - 학교 공유재산의 기본 이해' 출강 후기",
+      "url": "https://blog.naver.com/lawyer_dragonball/223950019110",
+      "category": "염용주 변호사 소식",
+      "date": "2025-07-28"
+    },
+    {
+      "logNo": "223946295422",
+      "title": "[염용주 대표변호사] 서울특별시교육청 정보공개심의회 위원 위촉 알림",
+      "url": "https://blog.naver.com/lawyer_dragonball/223946295422",
+      "category": "염용주 변호사 소식",
+      "date": "2025-07-25"
+    },
+    {
+      "logNo": "223935437588",
+      "title": "[성공 사례] 사립학교 교원(대학교수) 부당해고, 해임처분 무효확인 승소 사례",
+      "url": "https://blog.naver.com/lawyer_dragonball/223935437588",
+      "category": "성공 사례",
+      "date": "2025-07-16"
+    },
+    {
+      "logNo": "223934699417",
+      "title": "교원소청심사 기초 가이드 (2) : 청구 자격부터 절차까지, 30일 기한 놓치지 마세요",
+      "url": "https://blog.naver.com/lawyer_dragonball/223934699417",
+      "category": "교원 법률지원",
+      "date": "2025-07-15"
+    },
+    {
+      "logNo": "223932797232",
+      "title": "[염용주 대표변호사] 서울학부모지원센터 학부모의무교육 '사이버성폭력과 딥페이크 현실 이해' 온라인 Zoom 강의 출강 후기",
+      "url": "https://blog.naver.com/lawyer_dragonball/223932797232",
+      "category": "염용주 변호사 소식",
+      "date": "2025-07-14"
+    },
+    {
+      "logNo": "223927792521",
+      "title": "교원소청심사 기초 완전 정복 (1) : 교원소청심사, 23.8% 인용률의 의미",
+      "url": "https://blog.naver.com/lawyer_dragonball/223927792521",
+      "category": "교원 법률지원",
+      "date": "2025-07-09"
+    },
+    {
+      "logNo": "223920257182",
+      "title": "학교폭력 사안처리 절차의 이해(3) : 학교폭력 즉시분리 7일, 초기대응이 모든 것을 결정합니다",
+      "url": "https://blog.naver.com/lawyer_dragonball/223920257182",
+      "category": "학교 폭력",
+      "date": "2025-07-03"
+    },
+    {
+      "logNo": "223920213303",
+      "title": "교원 징계 절차 실무 가이드 (10) : 교원징계, 인사기록과 장기적 영향",
+      "url": "https://blog.naver.com/lawyer_dragonball/223920213303",
+      "category": "교원 법률지원",
+      "date": "2025-07-03"
+    },
+    {
+      "logNo": "223916726140",
+      "title": "교사책임면제? 2025 학교안전사고 법적 책임 총정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/223916726140",
+      "category": "학교 안전",
+      "date": "2025-06-30"
+    },
+    {
+      "logNo": "223910108558",
+      "title": "교육 활동 보호 법률의 기본 이해 (3) : 교권보호위원회, 제대로 알고 대처하기",
+      "url": "https://blog.naver.com/lawyer_dragonball/223910108558",
+      "category": "교원 법률지원",
+      "date": "2025-06-25"
+    },
+    {
+      "logNo": "223909602389",
+      "title": "학교폭력 사안처리 절차의 이해(2) : 학교폭력 신고, 골든타임을 잡는 첫 단추",
+      "url": "https://blog.naver.com/lawyer_dragonball/223909602389",
+      "category": "학교 폭력",
+      "date": "2025-06-24"
+    },
+    {
+      "logNo": "223908804052",
+      "title": "교원 징계 절차 실무 가이드 (9) : 교원 징계 통지, 효력은 언제부터일까요?",
+      "url": "https://blog.naver.com/lawyer_dragonball/223908804052",
+      "category": "교원 법률지원",
+      "date": "2025-06-23"
+    },
+    {
+      "logNo": "223906165712",
+      "title": "학교장을 위한 법률 지원 가이드 (5) : 학교폭력 소송, 교장선생님을 위한 대응 전략",
+      "url": "https://blog.naver.com/lawyer_dragonball/223906165712",
+      "category": "학교장 법률지원",
+      "date": "2025-06-23"
+    },
+    {
+      "logNo": "223906090194",
+      "title": "학교 공유재산의 기본 이해 (3) : 학교 재산 실태조사와 관리 가이드",
+      "url": "https://blog.naver.com/lawyer_dragonball/223906090194",
+      "category": "교육기관 법률지원",
+      "date": "2025-06-20"
+    },
+    {
+      "logNo": "223905536323",
+      "title": "[염용주 대표변호사] 서울특별시교육청 교육시설관리본부 '학교수영장 시범운영 전문가 자문단' 자문위원 위촉 알림",
+      "url": "https://blog.naver.com/lawyer_dragonball/223905536323",
+      "category": "염용주 변호사 소식",
+      "date": "2025-06-20"
+    },
+    {
+      "logNo": "223905494783",
+      "title": "[염용주 대표변호사] 서울구산초등학교 학부모 대상 학교폭력의 이해 및 예방 교육 성료",
+      "url": "https://blog.naver.com/lawyer_dragonball/223905494783",
+      "category": "염용주 변호사 소식",
+      "date": "2025-06-20"
+    },
+    {
+      "logNo": "223905469550",
+      "title": "교원 징계 절차 실무 가이드 (8) : 교원 징계 양정, 가중·감경 실무 총정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/223905469550",
+      "category": "교원 법률지원",
+      "date": "2025-06-20"
+    },
+    {
+      "logNo": "223897949407",
+      "title": "교육 활동 보호 법률의 이해 (2) : 교육 활동 침해, 변호사가 알려주는 3가지 핵심 유형",
+      "url": "https://blog.naver.com/lawyer_dragonball/223897949407",
+      "category": "교원 법률지원",
+      "date": "2025-06-13"
+    },
+    {
+      "logNo": "223894224359",
+      "title": "학교안전사고 중 가장 흔한 사고 유형(넘어짐/미끄러짐, 충돌 등) 분석과 법적 대응의 필요성",
+      "url": "https://blog.naver.com/lawyer_dragonball/223894224359",
+      "category": "학교 안전",
+      "date": "2025-06-10"
+    },
+    {
+      "logNo": "223892967123",
+      "title": "학교폭력 사안처리 절차의 이해(1) : 학교폭력 사안처리 흐름 완벽 가이드",
+      "url": "https://blog.naver.com/lawyer_dragonball/223892967123",
+      "category": "학교 폭력",
+      "date": "2025-06-09"
+    },
+    {
+      "logNo": "223885792105",
+      "title": "교육 활동 보호 법률의 이해 (1) : 교사가 꼭 알아야 할 교원지위법의 핵심",
+      "url": "https://blog.naver.com/lawyer_dragonball/223885792105",
+      "category": "교원 법률지원",
+      "date": "2025-06-02"
+    },
+    {
+      "logNo": "223879913542",
+      "title": "사교육 카르텔 대응, 최신 교원 징계 양정기준과 6가지 징계 유형 완벽 해설",
+      "url": "https://blog.naver.com/lawyer_dragonball/223879913542",
+      "category": "교원 법률지원",
+      "date": "2025-05-27"
+    },
+    {
+      "logNo": "223879804884",
+      "title": "학교 공유재산의 기본 이해 (2) : 학교 공유재산 관리 기본 원칙 완전 정리",
+      "url": "https://blog.naver.com/lawyer_dragonball/223879804884",
+      "category": "교육기관 법률지원",
+      "date": "2025-05-27"
+    },
+    {
+      "logNo": "223872998498",
+      "title": "교원 징계 절차 실무 가이드 (7) : 증인 심문과 증거조사의 실무적 한계",
+      "url": "https://blog.naver.com/lawyer_dragonball/223872998498",
+      "category": "교원 법률지원",
+      "date": "2025-05-21"
+    },
+    {
+      "logNo": "223871323693",
+      "title": "학교폭력, 제대로 알고 대응하기 (10) : 학교폭력 징후와 대응, 학부모가 꼭 알아야 할 핵심 가이드",
+      "url": "https://blog.naver.com/lawyer_dragonball/223871323693",
+      "category": "학교 폭력",
+      "date": "2025-05-20"
+    },
+    {
+      "logNo": "223870585464",
+      "title": "[염용주 변호사의 교육법 인사이트] 2025.5.1~5.16 교육 법률 주요 동향 분석",
+      "url": "https://blog.naver.com/lawyer_dragonball/223870585464",
+      "category": "교육법률 뉴스",
+      "date": "2025-05-19"
+    },
+    {
+      "logNo": "223867681704",
+      "title": "교원 징계 절차 실무 가이드 (6) : 교원 징계 진술권, 변호사 동석 가능할까요?",
+      "url": "https://blog.naver.com/lawyer_dragonball/223867681704",
+      "category": "교원 법률지원",
+      "date": "2025-05-16"
+    },
+    {
+      "logNo": "223867328056",
+      "title": "학교장을 위한 법률 지원 가이드 (4) : 학교폭력 사안의 학교장 자체 해결 시 주의 사항과 사례 분석",
+      "url": "https://blog.naver.com/lawyer_dragonball/223867328056",
+      "category": "학교장 법률지원",
+      "date": "2025-05-16"
+    },
+    {
+      "logNo": "223866370160",
+      "title": "학교폭력, 제대로 알고 대응하기(9) : 학교폭력 사안의 특성과 일반 형사사건과의 차이점",
+      "url": "https://blog.naver.com/lawyer_dragonball/223866370160",
+      "category": "학교 폭력",
+      "date": "2025-05-15"
+    },
+    {
+      "logNo": "223865402123",
+      "title": "학교안전사고, 사전 예방 및 초기 대응 전략 : 법적 관점과 실무 적용",
+      "url": "https://blog.naver.com/lawyer_dragonball/223865402123",
+      "category": "학교 안전",
+      "date": "2025-05-15"
+    },
+    {
+      "logNo": "223865043725",
+      "title": "학교 공유재산의 기본 이해 : 공유재산의 개념과 법적 지위",
+      "url": "https://blog.naver.com/lawyer_dragonball/223865043725",
+      "category": "교육기관 법률지원",
+      "date": "2025-05-14"
+    },
+    {
+      "logNo": "223864259714",
+      "title": "교원 징계 절차 실무 가이드 (5) : 교원 징계위원회의 외부위원 참여 의무화, 교원 권익 보호의 새로운 길",
+      "url": "https://blog.naver.com/lawyer_dragonball/223864259714",
+      "category": "교원 법률지원",
+      "date": "2025-05-13"
+    },
+    {
+      "logNo": "223863117847",
+      "title": "[염용주 대표변호사] 서울특별시교육청 「선생님 동행 100인의 변호인단」 위촉 소식",
+      "url": "https://blog.naver.com/lawyer_dragonball/223863117847",
+      "category": "염용주 변호사 소식",
+      "date": "2025-05-12"
+    },
+    {
+      "logNo": "223863095570",
+      "title": "[염용주 대표변호사] 서울특별시교육청 교육활동보호법률지원단 위촉 알림",
+      "url": "https://blog.naver.com/lawyer_dragonball/223863095570",
+      "category": "염용주 변호사 소식",
+      "date": "2025-05-12"
+    },
+    {
+      "logNo": "223863061901",
+      "title": "[승소 사례 소개] 학교 내 실습 중 안전사고로 인한 치료비 구상금 청구 소송 사례로 알아보는 학교 안전사고의 법적 책임 범위",
+      "url": "https://blog.naver.com/lawyer_dragonball/223863061901",
+      "category": "학교 안전",
+      "date": "2025-05-12"
+    },
+    {
+      "logNo": "223862945671",
+      "title": "학교폭력, 제대로 알고 대응하기(8) : 성폭력의 구체적 사례와 법적 판단기준, 대응방법",
+      "url": "https://blog.naver.com/lawyer_dragonball/223862945671",
+      "category": "학교 폭력",
+      "date": "2025-05-12"
+    },
+    {
+      "logNo": "223860208734",
+      "title": "학교장을 위한 법률 가이드 (3) : 학교폭력 사안의 법적 처리 절차와 학교장의 역할",
+      "url": "https://blog.naver.com/lawyer_dragonball/223860208734",
+      "category": "학교장 법률지원",
+      "date": "2025-05-09"
+    },
+    {
+      "logNo": "223859073623",
+      "title": "사립학교 교원징계위원회, 어떻게 구성되고 운영되나요?",
+      "url": "https://blog.naver.com/lawyer_dragonball/223859073623",
+      "category": "교원 법률지원",
+      "date": "2025-05-08"
+    },
+    {
+      "logNo": "223858999384",
+      "title": "[염용주 대표변호사] 서울특별시 도시기반시설본부 벌점심의위원회 전문가단 위원 위촉 알림",
+      "url": "https://blog.naver.com/lawyer_dragonball/223858999384",
+      "category": "염용주 변호사 소식",
+      "date": "2025-05-08"
+    },
+    {
+      "logNo": "223857867880",
+      "title": "학교급별 학교안전사고 주요 유형과 통계 분석",
+      "url": "https://blog.naver.com/lawyer_dragonball/223857867880",
+      "category": "학교 안전",
+      "date": "2025-05-07"
+    },
+    {
+      "logNo": "223857508722",
+      "title": "학교폭력, 제대로 알고 대응하기(7) : 사이버폭력의 사례와 법적 판단기준",
+      "url": "https://blog.naver.com/lawyer_dragonball/223857508722",
+      "category": "학교 폭력",
+      "date": "2025-05-07"
+    },
+    {
+      "logNo": "223853416913",
+      "title": "[염용주 대표변호사] 서울특별시교육청 행정심판위원회 위원 위촉 소식",
+      "url": "https://blog.naver.com/lawyer_dragonball/223853416913",
+      "category": "염용주 변호사 소식",
+      "date": "2025-05-02"
+    },
+    {
+      "logNo": "223853374753",
+      "title": "[염변 생각] \"내 아이가 학교폭력 가해자라고?\" 학교폭력 소송, 행정·민사·형사 모두 알아야 하는 이유",
+      "url": "https://blog.naver.com/lawyer_dragonball/223853374753",
+      "category": "염용주 변호사의 생각",
+      "date": "2025-05-02"
+    },
+    {
+      "logNo": "223852600845",
+      "title": "학교장을 위한 법률 가이드 (2) : 학교장의 법적 책임과 위험 요소",
+      "url": "https://blog.naver.com/lawyer_dragonball/223852600845",
+      "category": "학교장 법률지원",
+      "date": "2025-05-02"
+    },
+    {
+      "logNo": "223852535963",
+      "title": "교원 징계 절차 실무가이드 (3) : 국·공립학교의 징계위원회 구성과 운영",
+      "url": "https://blog.naver.com/lawyer_dragonball/223852535963",
+      "category": "교원 법률지원",
+      "date": "2025-05-01"
+    },
+    {
+      "logNo": "223851087402",
+      "title": "학교안전사고의 법적 정의와 교육활동 범위, 꼭 알아야 할 핵심 포인트",
+      "url": "https://blog.naver.com/lawyer_dragonball/223851087402",
+      "category": "학교 안전",
+      "date": "2025-04-30"
+    },
+    {
+      "logNo": "223851045082",
+      "title": "[염용주 대표변호사] 대전교육연수원 중등 교감 직무연수 - '사례 중심의 학교안전사고 법률적 이해' 출강",
+      "url": "https://blog.naver.com/lawyer_dragonball/223851045082",
+      "category": "염용주 변호사 소식",
+      "date": "2025-04-30"
+    },
+    {
+      "logNo": "223849294220",
+      "title": "학교폭력, 제대로 알고 대응하기 (6) : 강요의 사례와 법적 기준",
+      "url": "https://blog.naver.com/lawyer_dragonball/223849294220",
+      "category": "학교 폭력",
+      "date": "2025-04-29"
+    },
+    {
+      "logNo": "223849333012",
+      "title": "[염용주 대표변호사] 서울특별강남서초교육지원청 학교복합시설 직무연수 - 공유재산 판례 및 해석 사례 출강 후기",
+      "url": "https://blog.naver.com/lawyer_dragonball/223849333012",
+      "category": "염용주 변호사 소식",
+      "date": "2025-04-28"
+    },
+    {
+      "logNo": "223849306765",
+      "title": "[염용주 대표변호사 위촉 알림] 서울특별시초등학교교장회 자문변호사 위촉 알림",
+      "url": "https://blog.naver.com/lawyer_dragonball/223849306765",
+      "category": "염용주 변호사 소식",
+      "date": "2025-04-28"
+    },
+    {
+      "logNo": "223846017255",
+      "title": "[염변의 시시콜콜한 이야기] '사교육 카르텔' 관련 교원 징계, 어느 정도까지 가능할까?",
+      "url": "https://blog.naver.com/lawyer_dragonball/223846017255",
+      "category": "염용주 변호사의 생각",
+      "date": "2025-04-25"
+    },
+    {
+      "logNo": "223845368217",
+      "title": "학교장을 위한 법률 가이드 (1) : 학교장의 법적 지위와 권한",
+      "url": "https://blog.naver.com/lawyer_dragonball/223845368217",
+      "category": "학교장 법률지원",
+      "date": "2025-04-24"
+    },
+    {
+      "logNo": "223843580159",
+      "title": "[주절주절] 변호사의 \"아전인수\"",
+      "url": "https://blog.naver.com/lawyer_dragonball/223843580159",
+      "category": "염용주 변호사의 생각",
+      "date": "2025-04-23"
+    },
+    {
+      "logNo": "223843573755",
+      "title": "[염변 생각] 학교안전법 개정안에 신설된 교사면책 조항, 소급적용 가능할까?",
+      "url": "https://blog.naver.com/lawyer_dragonball/223843573755",
+      "category": "학교 안전",
+      "date": "2025-04-23"
+    },
+    {
+      "logNo": "223842297148",
+      "title": "학교폭력, 제대로 알고 대응하기 (5) : 따돌림(왕따)의 구체적 사례와 법적 판단기준",
+      "url": "https://blog.naver.com/lawyer_dragonball/223842297148",
+      "category": "학교 폭력",
+      "date": "2025-04-22"
+    },
+    {
+      "logNo": "223841948161",
+      "title": "[염용주 대표변호사] 서울성자초등학교 학교운영위원회 지역위원 위촉 알림",
+      "url": "https://blog.naver.com/lawyer_dragonball/223841948161",
+      "category": "염용주 변호사 소식",
+      "date": "2025-04-22"
+    },
+    {
+      "logNo": "223841696085",
+      "title": "교원 징계절차 실무 가이드 (2) : 사안 조사 및 증거수집 단계에서의 법적 유의점",
+      "url": "https://blog.naver.com/lawyer_dragonball/223841696085",
+      "category": "교원 법률지원",
+      "date": "2025-04-21"
+    },
+    {
+      "logNo": "223841710440",
+      "title": "[염용주 변호사의 교육법 인사이트] 2025년 4월 셋째 주요 동향",
+      "url": "https://blog.naver.com/lawyer_dragonball/223841710440",
+      "category": "교육법률 뉴스",
+      "date": "2025-04-21"
+    },
+    {
+      "logNo": "223838633598",
+      "title": "교원징계 절차 실무 가이드 (1) : 징계절차 개시와 대응전략",
+      "url": "https://blog.naver.com/lawyer_dragonball/223838633598",
+      "category": "교원 법률지원",
+      "date": "2025-04-18"
+    },
+    {
+      "logNo": "223838183448",
+      "title": "[염변 생각/사교육 카르텔 변호사] '사교육 카르텔' 교원 징계/형사처벌 가능할까?",
+      "url": "https://blog.naver.com/lawyer_dragonball/223838183448",
+      "category": "교원 법률지원",
+      "date": "2025-04-18"
+    },
+    {
+      "logNo": "223837594968",
+      "title": "학교폭력, 제대로 알고 대응하기(4) : 금품갈취(공갈)의 사례와 법적 판단 기준",
+      "url": "https://blog.naver.com/lawyer_dragonball/223837594968",
+      "category": "학교 폭력",
+      "date": "2025-04-17"
+    },
+    {
+      "logNo": "223837748036",
+      "title": "[염변 생각] 학교폭력 대책 심의위 조치 결정을 취소하는 소송?",
+      "url": "https://blog.naver.com/lawyer_dragonball/223837748036",
+      "category": "학교 폭력",
+      "date": "2025-04-17"
+    },
+    {
+      "logNo": "223836125118",
+      "title": "학교안전법 개정과 교원 면책 및 보호조치 강화",
+      "url": "https://blog.naver.com/lawyer_dragonball/223836125118",
+      "category": "학교 안전",
+      "date": "2025-04-17"
+    },
+    {
+      "logNo": "223836039625",
+      "title": "학교폭력, 제대로 알고 대응하기(3) : 언어폭력의 구체적 사례와 법적 기준",
+      "url": "https://blog.naver.com/lawyer_dragonball/223836039625",
+      "category": "학교 폭력",
+      "date": "2025-04-16"
+    },
+    {
+      "logNo": "223834205399",
+      "title": "학교 안전사고 보상 가이드",
+      "url": "https://blog.naver.com/lawyer_dragonball/223834205399",
+      "category": "학교 안전",
+      "date": "2025-04-16"
+    },
+    {
+      "logNo": "223834035630",
+      "title": "학교폭력 신체폭력 기준? 교육청 출신 변호사가 알려드리는 법적 판단기준과 대응법",
+      "url": "https://blog.naver.com/lawyer_dragonball/223834035630",
+      "category": "학교 폭력",
+      "date": "2025-04-15"
+    },
+    {
+      "logNo": "223832886260",
+      "title": "학교 안전사고 사례를 통해 본 교사 책임의 경계",
+      "url": "https://blog.naver.com/lawyer_dragonball/223832886260",
+      "category": "학교 안전",
+      "date": "2025-04-14"
+    },
+    {
+      "logNo": "223832975403",
+      "title": "[염용주 대표변호사] 서울특별시교육청 민원담당자 보호심의위원회 위원 위촉 알림",
+      "url": "https://blog.naver.com/lawyer_dragonball/223832975403",
+      "category": "염용주 변호사 소식",
+      "date": "2025-04-14"
+    },
+    {
+      "logNo": "223832482848",
+      "title": "[염용주 변호사의 교육법률 인사이트] 2025년 4월 둘째 주(4월 6일~13일) 교육법률계 주요 동향 및 판례 분석",
+      "url": "https://blog.naver.com/lawyer_dragonball/223832482848",
+      "category": "교육법률 뉴스",
+      "date": "2025-04-14"
+    },
+    {
+      "logNo": "223829680129",
+      "title": "학교 안전사고의 법적 책임 : 교사와 학교의 의무와 한계",
+      "url": "https://blog.naver.com/lawyer_dragonball/223829680129",
+      "category": "학교 안전",
+      "date": "2025-04-11"
+    },
+    {
+      "logNo": "223829008944",
+      "title": "학교폭력예방법 완전 정리 : 학교폭력 법적 정의부터 명확히 알기",
+      "url": "https://blog.naver.com/lawyer_dragonball/223829008944",
+      "category": "학교 폭력",
+      "date": "2025-04-10"
+    },
+    {
+      "logNo": "223827471018",
+      "title": "[면책 공고] 염용주 변호사 블로그 면책공고",
+      "url": "https://blog.naver.com/lawyer_dragonball/223827471018",
+      "category": "면책공고",
+      "date": "2025-04-09"
+    },
+    {
+      "logNo": "223827452898",
+      "title": "염용주 대표변호사를 소개합니다.",
+      "url": "https://blog.naver.com/lawyer_dragonball/223827452898",
+      "category": "염용주 변호사 소개",
+      "date": "2025-04-09"
+    }
+  ]
+}
